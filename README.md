@@ -9,7 +9,7 @@ Ce projet met en avant mes compétences, mes services, mes projets et inclut un 
 ![Demo Portfolio](assets/img/image-jFlSpiU4XwKpeZIRd3VVPQZ2FNA85S.png)  
 *(capture d’écran à remplacer par une image de ton site)*
 
-🔗 [Voir le site en ligne](https://ton-lien-github-pages)  
+🔗 [Voir le site en ligne](https://shafi24m2i.github.io/portfolio/)  
 
 ---
 
@@ -49,7 +49,7 @@ Ce projet met en avant mes compétences, mes services, mes projets et inclut un 
 ┣ 📜 index.html
 ┗ 📜 README.md
 
-[Voir le portfolio en ligne](https://tonpseudo.github.io/portfolio-shafi-kunduzi/)
+
 
 
 1. **Cloner le projet**
