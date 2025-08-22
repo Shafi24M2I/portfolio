@@ -51,7 +51,3 @@ Ce projet met en avant mes compétences, mes services, mes projets et inclut un 
 
 
 
-
-1. **Cloner le projet**
-   ```bash
-   git clone https://github.com/ton-utilisateur/portfolio-shafi-kunduzi.git
